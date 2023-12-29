@@ -2,7 +2,6 @@ import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import useBoundStore from "../../store/Store";
 import { Box, Button, Flex, Input, Text } from "@chakra-ui/react";
-import { SiFirefox } from "react-icons/si";
 import { useMutation } from "@tanstack/react-query";
 import axios from "axios";
 import Domain from "../../services/Endpoint";
@@ -41,7 +40,7 @@ const LoginPage = () => {
               </Text>
             </Flex>
             <Flex justifyContent="center" mb="12">
-              <Box >
+              <Box>
                 <LogoIcon size="80" color="white" />
               </Box>
             </Flex>
