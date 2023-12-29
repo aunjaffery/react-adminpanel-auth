@@ -2,6 +2,9 @@
 
 ## Minimal Admin panel skeleton for reactjs, with @chakra-ui, @tanstack/react-query, zustand and JWT auth
 
+![alt login](https://github.com/aunjaffery/react-adminpanel-auth/blob/master/public/admin_login.png)
+![alt dashboard](https://github.com/aunjaffery/react-adminpanel-auth/blob/master/public/admin_dash.png)
+
 ### Dependencies
 
 - react 18.2
